@@ -1,0 +1,18 @@
+{
+  "project": "BUSI Lesion Segmentation",
+  "model": "ResNet34 U-Net",
+  "image_size": 256,
+  "epochs_requested": 15,
+  "best_val_dice": 0.7294384088271704,
+  "test_metrics": {
+    "loss": 0.646146202698732,
+    "dice": 0.7603002042851896,
+    "iou": 0.6869064431924087
+  },
+  "limitations": [
+    "small dataset",
+    "image-level split",
+    "research prototype only",
+    "no external validation"
+  ]
+}
