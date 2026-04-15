@@ -79,10 +79,10 @@ These results show that the model is able to localize lesion regions reasonably 
 ## Visual Results
 
 ### Dataset samples
-![Dataset Samples](results/dataset_samples(1).png)
+![Dataset Samples](results/dataset_samples.png)
 
 ### Training history
-![Training History](results/history_plot(1).png)
+![Training History](results/history_plot.png)
 
 ### Qualitative predictions
 
